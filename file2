@@ -3,4 +3,7 @@ creating 2nd file
 editing the existing file after clone
 
 this file is being updated after cloning in local repo and updating origin and upstream ..
-but before anything else..
+but before anythi$ng else..
+
+
+this one is added after the push of file file2(edited)+file3(new) and syncing from upstream master and then push to fork(origin master)..
